@@ -225,13 +225,13 @@ I finished another Soy Bang Energy that I got from the 7-Eleven. Yet again, ther
 *Toss the can on the ground*
 *You’re Gonna Carry That Can*
 
-    *Toss the can on the ground*
+*Toss the can on the ground*
 With a cavalier attitude, I toss the can on the ground beside me, and continue walking toward Nate’s apartment..
 
 The Can will remember that.
-    *
+*
 
-    *You’re Gonna Carry That Can*
+*You’re Gonna Carry That Can*
 I guess I’m going to carry this can. I keep walking toward Nate’s apartment.
 *
 
@@ -323,9 +323,9 @@ I see him throw the empty can he was holding earlier into an appropriate recycli
 Suddenly, I feel really guilty about once again throwing that empty energy drink can on the ground earlier….
 
 Professor Bestman very obviously held onto his refuse can until he had an opportunity to dispose of it properly.
-    *
+*
 
-    *You’re Gonna Carry That Can.*
+*You’re Gonna Carry That Can.*
 Professor Bestman very obviously held onto his refuse can until he had an opportunity to dispose of it properly. He sees you’re still carrying that empty can of energy drink from earlier.
 
 (Nate|Professor Bestman, casual, pointing, happyMIN|shades) Want me to get that for you?
@@ -509,7 +509,7 @@ What do I think about the man, Ronnie Coleman, who sacrificed his life to become
 *Ronnie Coleman is truly a deserved king among men.*
 *Ronnie Coleman is a very stupid dude.*
 
-    *Ronnie Coleman is truly a deserved king among men.*
+*Ronnie Coleman is truly a deserved king among men.*
 (PCPG) That’s incredible. I can’t even imagine the amount of willpower and discipline it took to reach that kind of status.
 
 Professor Bestman seems to light up at my sympathetic passion.
@@ -517,9 +517,9 @@ Professor Bestman seems to light up at my sympathetic passion.
 (Nate|Professor Bestman, casual, standing, smittenMED|shades) Yes!
 
 (Nate|Professor Bestman, casual, pointing, happyMED|shades) He really is The Best. Guy. Ever!
-    *
+*
 
-    *Ronnie Coleman is a very stupid dude.*
+*Ronnie Coleman is a very stupid dude.*
 (PCPG) What?!
 
 (PCPG) What’s the point of reaching the top if you have to give up so much to do it?
@@ -1027,7 +1027,6 @@ With a bit more tonal context, I take another glance at the scene Nate is focusi
 
 The young woman appears to be struggling to set up and use the machine. The Smith machine as Nate calls it. She’s very obviously new to the gym as she seems out of place and largely uncomfortable. 
 
-
 (Nate, casual, standing, angryMED|shades)
 
 She eventually turns visibly flustered and her sudden frustration triggers Nate to jump up from the bench. Nate’s mouth tightens and his eyes close slightly to match his now piercing gaze. Nate’s right hand is closing into a fist in tension.
@@ -1305,7 +1304,6 @@ Nate’s embrace calms all my worries and placates the constricting storm of emo
 (Nate, casual, standing, neutral|shades)
 
 (PCPG) I’m sorry, Nate. None of this is your fault!
-
 
 (PCPG) All you’ve done is boost me up and give me the opportunity to better myself and work towards my goals.
 
@@ -1708,7 +1706,6 @@ Unfortunately, I don’t have much experience with these kinds of dismal events.
 (PCPG) My whole life has changed!
 
 I’m absolutely certain about how I feel, but I guess I’ve never taken the time to tell Nate any of this.
-
 
 (Nate, casual, smoking, confusedMIN|beard)$
 
@@ -2239,7 +2236,6 @@ Not that you don’t have plenty of ways to waste time.
 *That sounds great!*
 
 (Tom|Tom, 2, happyMAX) I’m glad we finally managed to hang out like we originally planned to.
-
 
 You faintly recall that you made plans to hang out with Tom a while back.
 *
