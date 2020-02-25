@@ -127,17 +127,17 @@ A cool looking giraffe catches the teachers attention.
 
 (Nate|???, campus, standing, shockMIN|shades) Oh hey Action Giraffe, how’s it going?
 
-(Action Giraffe, gesture1, happy) I have AIDS.
+(Action Giraffe, gesture1, happy, left) I have AIDS.
 
 (Nate|???, campus, smoking, happyMED|shades) Yeah, it’s pretty inspirational that despite your disease, you still strive towards your dreams.
 
 (Nate|???, campus, pointing, happyMED|shades) See PCPG? Be more like Action Giraffe here and realize your dreams to their fullest, no matter what. I won’t accept anything less.
 
 [SLIDE Nate offright]
-[Nate leaves]
+
 (PCPG) Who was that?
 
-(Gibbon|Gib, campus, grabby, happyMED) That was Professor Bestman, he teaches the Memes and Bloomer Philosophy classes.
+(Gibbon|Gib, campus, grabby, happyMED, offright, slide, right) That was Professor Bestman, he teaches the Memes and Bloomer Philosophy classes.
 
 (PCPG) Huh, those sound like interesting classes. And the giraffe?
 
@@ -147,7 +147,7 @@ Gib turns to Action Giraffe.
 
 (Gibbon|Gib, campus, handsup, neutral) Hey AG, what class you got first?
 
-(Action Giraffe, gesture 3, shock) I have AIDS.
+(Action Giraffe, gesture3, shock, left) I have AIDS.
 
 (Gibbon|Gib, campus, default, happyMED) Hey, what a coincidence! We all start the day with the same class.
 
@@ -160,14 +160,14 @@ Gib turns to Action Giraffe.
 [fade to black]
 [StopMusic]
 [Gibbon leaves]
-[ActionGiraffe leaves]
-[Location: musicclass]
+[Action Giraffe leaves]
+[Location: musicclass, musicclass.foreground]
 [Song: PCPDating_ClassJapanese]
 [fade from black]
 
 We reach the music classroom and Gibbon and I find seats next to each other. A scruffy man enters the room, obviously drunk.
 
-(Digi|???, Campus, 3, happyMAX, offleft, slide, center) Heyyy everybody! Welcome to music class!
+(Digi|???, Campus, 3, happyMAX, offright, slide, center) Heyyy everybody! Welcome to music class!
 
 (Digi|Professor Digibro, Campus, 3, happyMAX) I’m Professor Digibro, and well, I have no plans for this lesson whatsoever, but I guess you’re all here for the authentic After Dark experience, so LET’S GOOOOO!
 
@@ -183,7 +183,7 @@ Digibro scans the room tentatively.
 
 (Digi|Professor Digibro, Campus, 1, happyMIN) You, the cool looking one with the sunglasses.
 
-(Action Giraffe, gesture 2, shock, left) I have AIDS.
+(Action Giraffe, gesture2, shock, offleft, slide, left) I have AIDS.
 
 Digibro rubs his chin, deep in thought.
 
@@ -209,7 +209,7 @@ I snap back to reality. Great. It’s my first day and I’m already zoning out 
 
 (PCPG) Yeah. Music and stuff right?
 
-(Digi|Professor Digibro, Campus, 1, happyMAX) Good. There’s gonna be a quiz on all that stuff I just told you next friday. Your homework is to watch ten Anthony Fantano videos, to get a gist of what music reviews look like. Class dismissed.
+(Digi|Professor Digibro, Campus, 1, happyMAX) Good. There’s gonna be a quiz on all that stuff I just told you next Friday. Your homework is to watch ten Anthony Fantano videos, to get a gist of what music reviews look like. Class dismissed.
 
 (Digi|Professor Digibro, Campus, 4, neutral) See you in the next one!
 
@@ -229,14 +229,15 @@ I approach Digi. The closer I get to him, the more details I can see of his slov
 
 (Digi|Professor Digibro, Campus, 2, happyMAX) Well if you found that interesting you’re really going to like those Fantano videos I assigned you for homework. You know, it’s nice to have someone who actually takes an interest in my class. 
 
-(Digi|Professor Digibro, Campus, 1, angryMED) Some people say I ‘unnecessarily insert my opinion into things. I don’t really see the point of ‘objective’ teaching to begin with.
+(Digi|Professor Digibro, Campus, 1, angryMED) Some people say I "unnecessarily insert my opinion into things." I don’t really see the point of "objective" teaching to begin with.
 
 (Digi|Professor Digibro, Campus, 3, happyMIN) Anyway, I’ve got motherfuckin’ shit to do that’s bigger than yo’ kiddie pool. If you want to talk more, I’ll be in the library after school. Nice meeting ya, new kid.
 
-[SLIDE Digibro offright]
+[SLIDE Digi offright]
+[Digi leaves]
 At first I thought Digi was a self centered guy, but now that I’ve talked to him, I’m starting to realize that that doesn’t matter so much and he’s still a pretty sweet dude. I think I’ll enjoy this class.
 
-(Gibbon|Gib, campus, default, neutral) It’s getting pretty close to lunch, we should get going.
+(Gibbon|Gib, campus, default, neutral, offleft, slide, center) It’s getting pretty close to lunch, we should get going.
 
 (PCPG) Sure thing, lets go.
 
@@ -246,14 +247,16 @@ At first I thought Digi was a self centered guy, but now that I’ve talked to h
 *
 
 *Talk to Gib*
+[SLIDE Digi offright]
+[Digi leaves]
 
-(Gibbon|Gib, campus, default, neutral) Soo, how did you feel about your first class?
+(Gibbon|Gib, campus, default, neutral, offleft, slide, center) Soo, how did you feel about your first class?
 
 (PCPG) Well, it was… interesting.
 
 (Gibbon|Gib, campus, handsup, happyMIN) Yeah, most people tend to feel that way at first. But don’t worry, you’ll warm up to the folk here eventually. They’re like prickly pears: Hard on the outside, but if you crack ‘em open they’re full of juicy red bits.
 
-(Gibbon|Gib, campus, grabby, confusedMIN) If you wanna know more about Professor Digibro, he usually hangs out in the library after school. I dunno what he actually [i]does [/i]there though.
+(Gibbon|Gib, campus, grabby, confusedMIN) If you wanna know more about Professor Digibro, he usually hangs out in the library after school. I dunno what he actually [i]does[/i] there though.
 
 (Gibbon|Gib, campus, default, neutral, center, slide, offright) Anyway, it’s getting pretty close to lunch, we should get going.
 
@@ -271,9 +274,10 @@ I was kind of afraid of this whole university thing at first. It’s good to kno
 [fade from black]
 
 All these wacky introductions have left me starving, I can’t wait to finally chow down.
-
+[fade to black]
 [Location: dininghall.demo]
-
+[SFX: PCP-SFX_DoorOpen]
+[fade from black]
 As I push open the doors to the cafeteria, I find myself at an unexpected scene.
 
 The hall itself is pretty normal looking. Grey rubber floors, scratched peach walls, and a fairly high ceiling with windows lining the top.
@@ -300,11 +304,11 @@ Another has a group of students complaining about their food to each other as th
 
 [Zoom out to original background]
 
-(Gibbon, campus, default, happyMIN, offright, slide, center) Yeah don’t worry about it, they’re just being cool you know?
+(Gibbon, campus, default, happyMIN, offright, slide, right) Yeah don’t worry about it, they’re just being cool you know?
 
 (PCPG) Yeah…
 
-(Gibbon, campus, default, happyMIN, center, slide, offright)
+[SLIDE Gibbon offright]
 I don’t think I’m quite comfortable with the implication here, but if Gibbon says they’re just being cool, then I guess they’re just being cool.
 
 (Mage|???, campus, standing, silhouette) Hey! I haven’t seen you around before.
@@ -333,22 +337,21 @@ A female voice from behind catches my attention.
 (Mage|???, campus, 4, neutral) Anyway, you’re in Professor Tinyhat’s art class after lunch right? I need to go now, but I have that class too, so we’ll meet again then. Bye!
 
 [Mage leaves]
-Before I get a chance to say bye back she had already skipped away. Now that I think about it, I didn’t even manage to catch her name. Oh well, I’ll ask her for it in art class.
+Before I get a chance to say "bye" back, she had already skipped away. Now that I think about it, I didn’t even manage to catch her name. Oh well, I’ll ask her in art class.
 
-(Gibbon, campus, default, neutral, offright, center)
+(Gibbon, campus, default, neutral, offright, slide, right)
 I catch up to Gibbon waiting for me in the line as I look up at the menu options, which consists of the usual coloured pills, like forty strains of weed, Huel, and of course, pizza, cause every place has to have fucking pizza.
 
 Sorry, didn’t mean to get aggressive there, just a pet peeve of mine.
 
 (Gibbon, campus, default, neutral) I hear the BBQ chicken flatbread pizza is pretty good, never tried it though.
 
-I look through the pizza options and find that Gibbon’s suggestion is far too rich for my poor boi wallet. In fact, this whole menu is unreasonably overpriced. Cheap ass school.
+I look through the pizza options and find that Gibbon’s suggestion is far too rich for my poor boi wallet. In fact, this whole menu is unreasonably overpriced. Cheap-ass school.
 
 As I scan the menu to try to find something I could afford, I eventually stumble upon the cheapest option I see. Keto pizza. How the hell does that even work?
 
 (Gibbon, campus, press, sadMIN) I would’ve said to get the chicken n’ tea as a cheaper option, but it's a pretty popular dish so it always gets sold out quickly.
-
-[Gibbon leaves]
+[SLIDE Gibbon offright]
 I decide to grab some blue pills and a “keto” pizza slice, then follow Gibbon to a table. Given how eccentric the cliques here are, I wonder what kinda table Gibbon sits at.
 
 [Location: dininghall.demo, dininghall.table.mudpuddleforeground]
@@ -357,27 +360,28 @@ We stop at normal looking table with some normal looking students. Hmm, what’s
 
 Actually wait a second, these students aren’t normal at all. Perhaps the strangest of the bunch... 
 
-They’re European. /n German, I think?
+They’re European. /n
+German, I think?
 
-(Gibbon, campus, default, neutral, offright, center)
+(Gibbon, campus, default, neutral, offright, slide, center)
 I make the smart decision by avoiding talking to them and go over to where Gibbon is sitting at, but before I manage to sit down I almost step into a small patch of mud that looks like it was crudely dug out of the rubber floors of the cafeteria.
 
-(Gibbon, campus, hands up, shockedMIN) Mind the mud puddle, don’t want it getting dirty.
+(Gibbon, campus, hands up, shockedMIN, center, slide, right) Mind the mud puddle, don’t want it getting dirty.
 
 (PCPG) Wait, did you dig this out yourself?
 
 (Gibbon, campus, press, neutral) Well, you know, me and the rest of these guys. Took us a while ‘cause the only useful digging tools in this school are spoons, but it was worth it.
 
 (PCPG) Oh…
-
+[SLIDE Gibbon center]
 Careful of the “mud puddle,” I sit down in front of Gibbon and pop some blue pills before eating the “keto” pizza. It’s fucking disgusting.
 
 (Gibbon, campus, hands up, neutral) I mean with this school being dominated by slime, I had to dig out my own place of mud.
 
 (PCPG) Dominated by slime?
 
-(Gibbon, campus, grabby, angryMIN, center, slide, left)
-(Endless War|???, stand, silhouette) You heard him right.
+[SLIDE Gibbon left]
+(Endless War|???, stand, silhouette, fade, center) You heard him right.
 
 A new female voice replies from behind me, and this time she doesn’t sound so happy to see me. I look back and see her gesturing to the cafeteria table enveloped by vapor.
 
@@ -385,13 +389,13 @@ As I look over I see a blob of slime shoot out of the vapor and splash onto the 
 
 (Endless War|???, stand, happyMIN) Hello there Gibbon, or perhaps I should call you-
 
-(Gibbon, campus, clenched, angryMIN, left, slide, center-100)
+[SLIDE Gibbon center-100]
 (Endless War, stand, shockedMIN)
 Before the girl finishes her sentence Gibbon quickly shuts her up with his hand.
 
-(Gibbon, campus, clenched, angryMIN, center-100) Hey Endless War.
+(Gibbon, campus, clenched, angryMIN) Hey Endless War.
 
-(Gibbon, campus, default, angryMIN, center-100, slide, left)
+[SLIDE Gibbon left]
 (Endless War|Endless War, stand, blushMIN) Oh, shy are we now? 
 
 (Endless War|Endless War, stand, confusedMIN) You wouldn’t happen to know where Gun Girl is nowadays? I hardly see her ‘round the Cop Killers anymore.
@@ -400,7 +404,7 @@ Before the girl finishes her sentence Gibbon quickly shuts her up with his hand.
 
 They both go silent as they stare each other down. I guess they have history?
 
-(Endless War|Endless War, knife, angryMED) Well never mind, there is a more important task at hand. You’re showing a new juvie around school and you don’t even mention the[i] [/i]WAR?
+(Endless War|Endless War, knife, angryMED) Well never mind, there is a more important task at hand. You’re showing a new juvie around school and you don’t even mention the[i]WAR?[/i]
 
 (Endless War, knife, angryMIN)
 Endless War turns to face me. Her gaze nearly turns me to stone.
@@ -409,8 +413,8 @@ Endless War turns to face me. Her gaze nearly turns me to stone.
 
 (Endless War|Endless War, stand, neutral) You see this school is in the middle of a violent and dangerous gang war between the Rowdy Fuckers…
 
-[Endless War leaves]
-[Gibbon leaves]
+[SLIDE EndlessWar offright]
+[SLIDE Gibbon offleft]
 [Zoom in on Rowdy Fuckers table]
 
 Using her middle finger she points to the rowdy table, now menacingly looking over to the vapor table with wooden clubs in hand.
@@ -430,13 +434,13 @@ She moves her finger to the vapor table, where the vapor is starting to clear up
 [Song: PCP-AMBIENT_War]
 [Location: dininghall.demo, dininghall.foodfight|1]
 
-(Endless War, knife, blushMIN|blushiesMIN, offright, center)
-(Gibbon, campus, grabby, neutral, left)
+(Endless War, knife, blushMIN|blushiesMIN, slide, center)
+(Gibbon, campus, grabby, neutral, slide, left)
 Gunshots fill the hall as the fight truly breaks out between them. The rest of the students rush out of the hall, though they don’t seem too scared of the violence, almost as if it’s a common occurrence.
 
-(PCPG) We should probably leave too Gibbon.
+(PCPG) We should probably leave too, Gibbon.
 
-[Gibbon leaves]
+[SLIDE Gibbon offleft]
 Gibbon gives me a quick nod and heads for the cafeteria door.
 
 (Endless War|Endless War, knife, blushMIN|blushiesMIN) You don’t wanna join in, juvie? 
@@ -691,7 +695,7 @@ After reading, I decide that it is about time I should head home. I stand up to 
 
 (Digi|Professor Digibro, casual, 4, happyMAX) Good! I’ll make that list for the next time we hang out! See ya later!
 
-[SLIDE Digibro offright]
+[SLIDE Digi offright]
 [Digi leaves]
 I leave the library and head home, filled with a subtle satisfaction that I am getting to know more and more people at this new school in a more [i]intimate[/i] way.
 *
@@ -722,7 +726,7 @@ The Professor then takes a few deep breaths, almost as if he’s hyperventilatin
 
 (Digi|Professor Digibro, casual, 2, neutral) Well, see you next class.
 
-[SLIDE Digibro offright]
+[SLIDE Digi offright]
 [Digi leaves]
 Digi went from seething with rage to perfectly calm in a matter of moments. I’m not really sure what to make of that. I wonder if I ruined my friendship with him…
 
