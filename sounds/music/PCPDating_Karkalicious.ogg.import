@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_Karkalicious.ogg-cbaf033f02493a7ce3ea06163f81a15b.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_Karkalicious.ogg"
+dest_files=[ "res://.import/PCPDating_Karkalicious.ogg-cbaf033f02493a7ce3ea06163f81a15b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

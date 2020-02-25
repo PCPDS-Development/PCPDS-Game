@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-SFX_DemonScreetch.ogg-14a7aead7846d2f2a693fa73ff9a0f73.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-SFX_DemonScreetch.ogg"
+dest_files=[ "res://.import/PCP-SFX_DemonScreetch.ogg-14a7aead7846d2f2a693fa73ff9a0f73.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

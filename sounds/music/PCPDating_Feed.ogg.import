@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_Feed.ogg-b59bee6be37afac0fbc940015221a2c5.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_Feed.ogg"
+dest_files=[ "res://.import/PCPDating_Feed.ogg-b59bee6be37afac0fbc940015221a2c5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-SFX_PokeballReturn.ogg-fc469b322ee41a689c96f84f1f04da93.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-SFX_PokeballReturn.ogg"
+dest_files=[ "res://.import/PCP-SFX_PokeballReturn.ogg-fc469b322ee41a689c96f84f1f04da93.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_ClassMemes_Megalovania.ogg-318bf063c9707236255c22fda6ed84f4.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_ClassMemes_Megalovania.ogg"
+dest_files=[ "res://.import/PCPDating_ClassMemes_Megalovania.ogg-318bf063c9707236255c22fda6ed84f4.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

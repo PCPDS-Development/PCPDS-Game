@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_ClassJapanese.ogg-e8e21f31c8502716490038b0458dfb65.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_ClassJapanese.ogg"
+dest_files=[ "res://.import/PCPDating_ClassJapanese.ogg-e8e21f31c8502716490038b0458dfb65.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

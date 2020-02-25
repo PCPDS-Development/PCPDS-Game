@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_Tension.ogg-9a2daeb2fb940e7d84875b8c36c181d9.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_Tension.ogg"
+dest_files=[ "res://.import/PCPDating_Tension.ogg-9a2daeb2fb940e7d84875b8c36c181d9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

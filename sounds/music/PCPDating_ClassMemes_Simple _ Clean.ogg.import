@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_ClassMemes_Simple _ Clean.ogg-e5d12792ebab04aacd49e545b442934b.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_ClassMemes_Simple _ Clean.ogg"
+dest_files=[ "res://.import/PCPDating_ClassMemes_Simple _ Clean.ogg-e5d12792ebab04aacd49e545b442934b.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

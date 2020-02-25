@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_LifeInEndlessWar.ogg-72299e16bd44435da49a96c0a8bf2537.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_LifeInEndlessWar.ogg"
+dest_files=[ "res://.import/PCPDating_LifeInEndlessWar.ogg-72299e16bd44435da49a96c0a8bf2537.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

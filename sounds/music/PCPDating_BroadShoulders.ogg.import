@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_BroadShoulders.ogg-4c91d9878ce92c48d0f43a4f5174f29d.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_BroadShoulders.ogg"
+dest_files=[ "res://.import/PCPDating_BroadShoulders.ogg-4c91d9878ce92c48d0f43a4f5174f29d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

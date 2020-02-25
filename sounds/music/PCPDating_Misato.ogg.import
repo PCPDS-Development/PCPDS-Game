@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_Misato.ogg-1361e0256bb6b4c25d1d17a214e1fda2.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_Misato.ogg"
+dest_files=[ "res://.import/PCPDating_Misato.ogg-1361e0256bb6b4c25d1d17a214e1fda2.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

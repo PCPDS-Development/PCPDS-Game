@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_Holy.ogg-bbabf911746059e0b4ef128e384f35ed.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_Holy.ogg"
+dest_files=[ "res://.import/PCPDating_Holy.ogg-bbabf911746059e0b4ef128e384f35ed.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
