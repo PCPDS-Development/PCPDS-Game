@@ -2,20 +2,17 @@
 [Location: waytoschool.nojesse]
 [Song: PCPDating_SuspiciousFigga]
 [Fade from black]
-
 I slept like a fat cat, though I can’t imagine the same is true of that Jesse guy. We agreed to meet here this morning, now where is he…?
-
-Movement catches the corner of my eye, but not before my ears are treated to the cacophony of boots clanging against the thick metal of a dumpster. /n Ah. I see.
-
+Movement catches the corner of my eye, but not before my ears are treated to the cacophony of boots clanging against the thick metal of a dumpster.
+Ah. I see.
 Evidently, he sees me as well, as he leaps down from his trash mountain and gallops over to me like a puppy dog boy that smells sausages.
-
 (Jesse|Jesse, homeless, 1, happyMED) Howdy friend! You’ll have to excuse the mess, I was grabbing some light breakfast to appease the hunger demons. Some tortilla chip shards and soda droplets can really wake ya up in the morning!
 (PCPG) Oh god, you’ve been eating out of there? I mean, I didn’t know what to expect, but still…
 (Jesse|Jesse, homeless, 1, shockMIN) It’s not so bad, really. You learn to watch out for signs of mold, and as long as you avoid that like the plague you should be alright. Also avoid the plague. The rats aren’t exactly models of cleanliness.
 (Jesse, homeless, 4, angryMED)
 He barfs a little in his mouth, but I don’t see anything come out. As much as I’d like to help him out again, I don’t have any food on me and I definitely don’t trust him with money. If only there was some way to… wait, that’s it!
 (PCPG) Hey, Jesse, listen here. I’ve got a plan to get you some proper food, but you’re gonna have to follow me, act natural, and keep quiet. Can you do that?
-(Jesse|Jesse, homeless, 1, smittenMIN) Depends on my nature, doesn’t it? Can’t act natural and keep quiet if I’m as much of a wordsmith as I let on. My natural state of being might be to talk your ear off like Fi from Skyward Sword, for all you know. Although I’d have a functioning brain instead of her ten outta ten booty, a tragic but ultimately worthwhile trade.
+(Jesse|Jesse, homeless, 1, smittenMIN) Depends on my nature, doesn’t it? Can’t act natural [i]and[/i] keep quiet if I’m as much of a wordsmith as I let on. My natural state of being might be to talk your ear off like Fi from Skyward Sword, for all you know. Although I’d have a functioning brain instead of her ten outta ten booty, a tragic but ultimately worthwhile trade.
 I give him a look that indicates my disdain at what I assume is meant to be a joke.
 (Jesse|Jesse, homeless, 3, sadMIN) I get the message, sailor, but can I at least ask how far we’re going? The dumpster is right here and I’m working on grinding out my 10,000 hours of dumpster diving. Then I’ll be a master of yet another artform to add to my ever-growing portfolio, which already includes staving away demons and crying myself to sleep.
 I honestly can’t even tell where the jokes begin and the real shit ends anymore.
@@ -41,7 +38,7 @@ Turns out getting here late worked in our favor; everyone’s in class, so the h
 (PCPG) Alright Jesse, here’s the plan. I’ll go to class so they don’t suspect me of anything. You grab as much food as you can carry, then bolt it outta here the same way we came in. Got it?
 (Jesse|Jesse, homeless, 5, confusedMIN) Got what?
 (Jesse|Jesse, homeless, 2, happyMIN|blush) Nah I’m just messin’ with ya. Go ahead, before your teacher and classmates start worrying. I’m gonna grab me some chicken n’ tea, then absorb some of the Zoomer energy emanating from this wretched establishment, so I can get out the door faster than The Flash wearing Sonic’s speed shoes.
-[SLIDE, Jesse, offleft]
+[SLIDE Jesse offleft]
 [StopMusic]
 With an affirmative nod, I turn to leave, but before I can reach the cafeteria door, someone opens it from the other side!
 [SFX: PCP-SFX_DoorSlam]
@@ -49,8 +46,8 @@ With an affirmative nod, I turn to leave, but before I can reach the cafeteria d
 (Digi|Digi, campus, 3, shockMIN) Well if it ain’t the new blood! And… who’s this rag-tag misfit?
 (PCPG) Ah, Professor Digi! This is, uhh…
 (Jesse|Jesse, homeless, 3, happyMED)
-[SLIDE, Jesse, left+50]
-[SLIDE, Digi, right-50]
+[SLIDE Jesse left+50]
+[SLIDE Digi right-50]
 (Jesse|Jesse, homeless, 3, happyMED) Allow me to introduce myself. My name is Dr. Donatello Horseshoes PhD, but you can call me Donnie. And before you ask, my parents named me after the renaissance artist, not the ninja turtle. I was actually on my way to see you, Mr. Digi, when I caught this student trying to sneak food out of the cafeteria.
 I’m startled by the speed at which he came up with that excuse. Did he practice this routine in his head on the way here?
 (Digi|Digi, campus, 5, neutral) Eh, no biggie, I do it all the time. Like right now, for example. A verbal warning is all we need to give, apparently. Hey kid, run along to class, and, like, don’t steal food or something.
@@ -94,8 +91,8 @@ Two days later...
 (Colt|Colt Corona, 1, angryMAX) I GOT GIANT BALLS
 (Nate|Nate, campus, standing, neutral|shades) …
 (Nate|Nate, campus, standing, neutral|shades) Okay then, let’s try and think of a way to apply your… enlarged globes… to the real world. Sex is a great motivator for any man. Do you have any sexual experience?
-[SLIDE, Colt, offleft]
-[SLIDE, Nate, left]
+[SLIDE Colt offleft]
+[SLIDE Nate left]
 (Tom|Tom, 1, angryMAX, offright, slide, right) Mr Bestman! I hardly think that’s appropriate to discuss with your students!
 (Nate|Nate, campus, pointing, angryMED|shades) Quit your whining, Tom, or I’ll dock your grades for “excessive negativity.” Look, we’re all adults here, and if Colt doesn’t wanna talk about it, I’m not gonna force him. How are we gonna cultivate a sexually mature society if we don’t encourage people to feel comfortable talking about it?
 I’m not sure where I stand in this discussion. On the one hand, it does feel icky, but Nate brings up some good points too. Maybe I should take a stance…?
@@ -318,7 +315,7 @@ We begin walking through the dense trees of the park’s forest. The path is soo
 (PCPG) What? No, bigger on the in- oh you’re messing with me, aren’t you?
 (Jesse|Jesse, casual, 3, happyMED) Hehe, gotcha.
 We keep walking deeper, figuring if we turned back now we’d just end up more lost. As we approach some more purple-tinted trees, a familiar bunny-nosed lady stops us in our tracks, wagging her finger (and tail...) left and right, like a mother telling her child to stop eating the play-doh.
-[SLIDE, Jesse, right]
+[SLIDE Jesse right]
 (Mage|Mage, casual, 5, happyMIN, offleft, slide, left) Oh no no, sweet travellers, not this way! Not yet… you want to go that way, towards the tree with two knots in its trunk, then keep going in that direction.
 (PCPG) Hey, shouldn’t you be in school right now?
 (Mage|Mage, casual, 5, happyMED) Maybe I am, consider that?
@@ -355,7 +352,7 @@ Normally, I would have had Japanese class this morning, but because of my new re
 I’ve been working with “Dr. Horseshoes” for a little over two weeks now, although I’ve not yet had the confidence to handle a client on my own. He’s always had to take the lead. Maybe I can change that today?
 [Song: PCPDating_Misato]
 (Jesse|Jesse, campus, 1, neutral) Well how-dy, partner! Take a seat behind the desk with me, I found it in the teachers’ lounge and nabbed it for ya. But make it snappy, word is on the grapevine that we got a special guest coming to see us this morning, and she could show up at any time. If I were a betting man, I’d say riiight aboooouuuuut…
-[SLIDE, Jesse, right]
+[SLIDE Jesse right]
 (V, 1, neutral, offleft, slide, left)
 A young lady - around my age by the looks of her - knocks on the door exactly once while already walking through it. She spins the guest seat around to face backwards and sits her jeans-clad butt down on the cushion.
 (V|???, 2, neutral) Zdravstvuyte, eto klinika podkovy?
@@ -451,7 +448,7 @@ I have no idea what they’re talking about.
 (Ben|Ben, campus, slouch, angryMIN) Okay, let’s get this over with. Time to judge your work.
 When did he get back? Not one to announce his presence like Mr. Bestman, I guess.
 (Ben|Ben, campus, base, angryMIN) Davoo, and kid whose name I can’t remember, what have you got there?
-[SLIDE, Ben, right]
+[SLIDE Ben right]
 (Davoo|Davoo, campus, explaining, happyMAX, offleft, slide, left) Well professor, it’s an all-purpose cleaning fluid called-
 (Ben|Ben, campus, point, happyMIN) Slime, huh? I like it! It’s got a good gelatinous consistency to it, and it’s the perfect shade of green. May you share with me a look at your experiment notes?
 Davoo hands Mr. Saint the school-grade lined paper we wrote down all the ingredients and observations on. He looks over it with uncharacteristically feverish curiosity, before casually stuffing the sheet into his jacket pocket.
@@ -459,7 +456,7 @@ Davoo hands Mr. Saint the school-grade lined paper we wrote down all the ingredi
 [Davoo leaves]
 [StopMusic]
 (Ben, campus, dab)
-[SLIDE, Ben, left]
+[SLIDE Ben left]
 He dabs over to the other table with a little more spring in his step than usual. However, his mood immediately sours once he approaches Action Giraffe and the ghost’s pungent brew.
 (Action Giraffe, sad, center)
 (Lord of Ghosts, sad, right)
@@ -472,7 +469,7 @@ He picks up the flask of “I Have AIDS” to take a closer look.
 [SFX: PCP-SFX_DemonScreetch]
 (Lord of Ghosts|Lord of Ghosts, shock) WAAAIIIIIIIIIIEEEEEEEEIIIIII!!! MY GHOSTLY ESSENCE FUCK OW OWIE
 Burning holes in his, uh, skin, the concoction gives off a visible smoke trail that would no doubt set off the fire alarm, if its batteries had been replaced at all in the last ten years.
-[SLIDE, Lord of Ghosts, offleft]
+[SLIDE Lord of Ghosts offleft]
 (Ben, campus, exasp, angryMAX)
 [Lord of Ghosts leaves]
 [SFX: PCP-SFX_DoorSlam]
@@ -480,8 +477,8 @@ Panicking, he rushes out the door so quickly that he knocks over the flask and s
 (Ben|Ben, campus, exasp, angryMAX) Gah! Get back here you specter of torment!
 (Ben|Ben, campus, slouch, angryMIN) ...bleh. If he hadn’t zoomed around so recklessly, my jacket would be fine goddammit…
 (Ben|Ben, campus, exasp, angryMAX) Rage quit! That’s it, class is over. Everybody go home.
-[SLIDE, Action Giraffe, offleft]
-[SLIDE, Ben, center]
+[SLIDE Action Giraffe offleft]
+[SLIDE Ben center]
 [Action Giraffe leaves]
 [StopMusic]
 Class filters out, but on my way to the door I stop to talk with Mr. Saint.
@@ -500,13 +497,13 @@ Before I can chime in with my own thoughts, we’re greeted by an all-too-famili
 (Ben, campus, base, neutral|horn, offleft)
 [StopMusic]
 [Song: PCPDating_BotBustah]
-[SLIDE, Ben, left]
+[SLIDE Ben left]
 (Jesse|Dr. Horseshoes, campus, 2, happyMIN, center, slide, right) Ah, welcome to the Horseshoes Clinic! I was about to wrap up for the day, but if you’re in need then I’m… in… peeeeeeeeed.
 (Jesse, campus, 3, confusedMED)
 (PCPG) Want me to handle this one? You seem to be a little out of sorts.
 (Jesse, campus, 5, happyMIN|blush) I must swallow my pride and accept your help yet again, I suppose. Knock ‘em dead, el tigre.
-[SLIDE, Jesse, offright]
-[SLIDE, Ben, center]
+[SLIDE Jesse offright]
+[SLIDE Ben center]
 (PCPG) Hi Mr. Saint, I didn’t expec-
 (Ben|Phantom Horn, campus, point, angryMIN|horn) Nononono, I’m not Ben Saint, you’re getting me mixed up with that handsome devil from Science class. My name’s Phantom Horn. I’m from the cooler side of school, we’ve never met.
 What a shitty disguise. Does he really think it’s enough to fool anyone? He didn’t even change his jacket.
@@ -519,16 +516,16 @@ No sooner had Jesse settled into the plush back of his chair than he pricked bac
 (Ben, campus, exasp, angryMIN|horn)
 (PCPG) Well... I think maybe you’re being a bit harsh with the blanket statements, but-
 (Jesse, campus, 3, angryMIN)
-[SLIDE, Jesse, right]
-[SLIDE, Ben, left]
+[SLIDE Jesse right]
+[SLIDE Ben left]
 (Jesse|Dr. Horseshoes, campus, 3, angryMIN) Fuck ‘em.
 (Ben|Phantom Horn, campus, base, confusedMAX|horn) “Fuck ‘em”?
 (Jesse|Dr. Horseshoes, campus, 4, happyMED) Fuck ‘em!
 (Ben|Phantom Horn, campus, slouch, neutral|horn) Fuck ‘em…
 (Jesse|Dr. Horseshoes, campus, 1, happyMAX) Fuck ‘em!!
 (Ben|Phantom Horn, campus, exasp, happyMAX|horn) Yeah, fuck ‘em!
-[SLIDE, Jesse, offleft]
-[SLIDE, Ben, offleft]
+[SLIDE Jesse offleft]
+[SLIDE Ben offleft]
 [Jesse leaves]
 [Ben leaves]
 And with that, the two dance out the door arm-in-arm - leaving me to tidy up the clinic for the night. Great.
@@ -560,11 +557,11 @@ Jesse’s whole demeanor turns grim. Looks like Mr. Saint hit a nerve, whatever 
 (PCPG) Anyway! Moving on. I was born after all the stuff you guys were just talking about, but I’ve gone back and played some SNES games. I got the SNES Classic, you know, the one that came with Star Fox 2? Hehe, pretty crazy that game took so long to be released-
 (Jesse, campus, 2, neutral)
 (Ben|Phantom Hornless, campus, exasp, shockMAX) Aw geez, look at the time! I gotta go meet Munch- I mean, Strawberry Milk! My friend. Also from the cool side of school. Goodnight!
-[SLIDE, Ben, offleft]
+[SLIDE Ben offleft]
 [Ben leaves]
 Ben-Phantom-whatever absconds the scene rather abruptly after checking his watch. Actually, what is the time? I pull out my phone.
 (PCPG) Whoah, nearly 11 PM? How in the heck were we out here for seven hours?!
-[SLIDE, Jesse, center]
+[SLIDE Jesse center]
 (Jesse|Jesse, campus, 5, smittenMIN) Correction: you were out here for seven hours. Tube-head and I were out for eight!
 [Song: PCP-AMBIENT_Rain]
 [Location: 7eleven.night, overlay.rain]

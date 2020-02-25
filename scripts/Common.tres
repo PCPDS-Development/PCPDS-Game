@@ -68,7 +68,7 @@ He screams desperately into the sewers.
 
 (PCPG) Is... is that guy okay, Gibbon?
 
-(Gibbon, campus, HandsUp, neutral, offleft, slide, center) Oh don't mind the Sewer Priest, he's always like that.
+(Gibbon, campus, HandsUp, neutral, offleft, slide, left) Oh don't mind the Sewer Priest, he's always like that.
 
 [SLIDE Gibbon offleft]
 [Gibbon leaves]
@@ -127,7 +127,7 @@ A cool looking giraffe catches the teachers attention.
 
 (Nate|???, campus, standing, shockMIN|shades) Oh hey Action Giraffe, how’s it going?
 
-(Action Giraffe, gesture1, happy, left) I have AIDS.
+(Action Giraffe, gesture1, happy) I have AIDS.
 
 (Nate|???, campus, smoking, happyMED|shades) Yeah, it’s pretty inspirational that despite your disease, you still strive towards your dreams.
 
