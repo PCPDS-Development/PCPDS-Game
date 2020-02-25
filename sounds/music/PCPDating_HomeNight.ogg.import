@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_HomeNight.ogg-0d82a795d7a22f95243ccf17d3ec752a.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_HomeNight.ogg"
+dest_files=[ "res://.import/PCPDating_HomeNight.ogg-0d82a795d7a22f95243ccf17d3ec752a.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

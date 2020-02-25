@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-SFX_RecordScratch.ogg-0eced49642848b8f55e297180298df92.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-SFX_RecordScratch.ogg"
+dest_files=[ "res://.import/PCP-SFX_RecordScratch.ogg-0eced49642848b8f55e297180298df92.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

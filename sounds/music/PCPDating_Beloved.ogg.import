@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_Beloved.ogg-32c98d058a3a51cf002e36d3e656b3a5.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_Beloved.ogg"
+dest_files=[ "res://.import/PCPDating_Beloved.ogg-32c98d058a3a51cf002e36d3e656b3a5.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-SFX_Gunshot.ogg-0bd92aeb1f149dbd2ef08d0c44d87fcb.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-SFX_Gunshot.ogg"
+dest_files=[ "res://.import/PCP-SFX_Gunshot.ogg-0bd92aeb1f149dbd2ef08d0c44d87fcb.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

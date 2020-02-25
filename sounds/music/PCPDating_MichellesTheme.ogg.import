@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_MichellesTheme.ogg-b23f3c4cf6e380e28fd45e26a7fa513e.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_MichellesTheme.ogg"
+dest_files=[ "res://.import/PCPDating_MichellesTheme.ogg-b23f3c4cf6e380e28fd45e26a7fa513e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-AMBIENT_Hallway.ogg-f301816953b00cf3b2564ea9ab281d0d.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCP-AMBIENT_Hallway.ogg"
+dest_files=[ "res://.import/PCP-AMBIENT_Hallway.ogg-f301816953b00cf3b2564ea9ab281d0d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

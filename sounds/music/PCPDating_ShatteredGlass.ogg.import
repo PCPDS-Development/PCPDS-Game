@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_ShatteredGlass.ogg-9dfdb2fde77da36cd97dd726a682ea81.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_ShatteredGlass.ogg"
+dest_files=[ "res://.import/PCPDating_ShatteredGlass.ogg-9dfdb2fde77da36cd97dd726a682ea81.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

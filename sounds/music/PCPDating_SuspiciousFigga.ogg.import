@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_SuspiciousFigga.ogg-f4f17a406e7815cfc5e8379563f1ca1e.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_SuspiciousFigga.ogg"
+dest_files=[ "res://.import/PCPDating_SuspiciousFigga.ogg-f4f17a406e7815cfc5e8379563f1ca1e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

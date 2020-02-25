@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_Slimefests.ogg-c26324959f85ef9ee4baf4600909b7bf.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_Slimefests.ogg"
+dest_files=[ "res://.import/PCPDating_Slimefests.ogg-c26324959f85ef9ee4baf4600909b7bf.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

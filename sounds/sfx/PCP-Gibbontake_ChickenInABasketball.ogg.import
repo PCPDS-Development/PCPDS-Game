@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-Gibbontake_ChickenInABasketball.ogg-f06da5eb75d6a527eb7cd621269c71b8.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-Gibbontake_ChickenInABasketball.ogg"
+dest_files=[ "res://.import/PCP-Gibbontake_ChickenInABasketball.ogg-f06da5eb75d6a527eb7cd621269c71b8.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

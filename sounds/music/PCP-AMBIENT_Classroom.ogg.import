@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-AMBIENT_Classroom.ogg-9c97d929ec8c03c3d0af9781b3dc0ada.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCP-AMBIENT_Classroom.ogg"
+dest_files=[ "res://.import/PCP-AMBIENT_Classroom.ogg-9c97d929ec8c03c3d0af9781b3dc0ada.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

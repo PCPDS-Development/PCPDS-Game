@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_PurpleForest.ogg-e481ea73653b88c28f31adb6fb527283.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_PurpleForest.ogg"
+dest_files=[ "res://.import/PCPDating_PurpleForest.ogg-e481ea73653b88c28f31adb6fb527283.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

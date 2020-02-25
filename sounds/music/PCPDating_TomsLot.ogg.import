@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_TomsLot.ogg-a913005301c92fab12964105640ff775.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_TomsLot.ogg"
+dest_files=[ "res://.import/PCPDating_TomsLot.ogg-a913005301c92fab12964105640ff775.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

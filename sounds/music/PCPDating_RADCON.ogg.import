@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_RADCON.ogg-9eedb249cd01c95ee8881581b58198db.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_RADCON.ogg"
+dest_files=[ "res://.import/PCPDating_RADCON.ogg-9eedb249cd01c95ee8881581b58198db.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

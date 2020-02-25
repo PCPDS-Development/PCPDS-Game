@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-AMBIENT_Shooting.ogg-170210854f74086ee8ef5c4e82d1d1c8.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCP-AMBIENT_Shooting.ogg"
+dest_files=[ "res://.import/PCP-AMBIENT_Shooting.ogg-170210854f74086ee8ef5c4e82d1d1c8.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

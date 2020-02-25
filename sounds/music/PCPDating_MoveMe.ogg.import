@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_MoveMe.ogg-ac25f6c9ac88d4e99771944d042cc73f.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_MoveMe.ogg"
+dest_files=[ "res://.import/PCPDating_MoveMe.ogg-ac25f6c9ac88d4e99771944d042cc73f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

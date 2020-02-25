@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCP-SFX_DoorKnock.ogg-19f05788ffc31057e686607393c3018d.oggstr"
+
+[deps]
+
+source_file="res://sounds/sfx/PCP-SFX_DoorKnock.ogg"
+dest_files=[ "res://.import/PCP-SFX_DoorKnock.ogg-19f05788ffc31057e686607393c3018d.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

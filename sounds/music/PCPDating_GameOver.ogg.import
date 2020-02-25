@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/PCPDating_GameOver.ogg-be67634301bc8caceae355fe01a11411.oggstr"
+
+[deps]
+
+source_file="res://sounds/music/PCPDating_GameOver.ogg"
+dest_files=[ "res://.import/PCPDating_GameOver.ogg-be67634301bc8caceae355fe01a11411.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
